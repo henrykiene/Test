@@ -1,1 +1,1 @@
-write-host "Hall World!"
+write-host "Hallo World!"
